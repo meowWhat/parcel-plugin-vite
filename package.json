@@ -1,0 +1,8 @@
+{
+  "name": "parcel-plugin-vite",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:meowWhat/parcel-plugin-vite.git",
+  "author": "cjh <1797793818@qq.com>",
+  "license": "MIT"
+}
