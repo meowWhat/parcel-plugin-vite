@@ -4,5 +4,12 @@
   "main": "index.js",
   "repository": "git@github.com:meowWhat/parcel-plugin-vite.git",
   "author": "cjh <1797793818@qq.com>",
+  "description": "Make parcel-build support esmodule,This is very important especially if you are using Vite as the dev server !",
+  "keywords": [
+    "vite",
+    "parcelRequire is undefiend",
+    "esmodule",
+    "parcel"
+  ],
   "license": "MIT"
 }
